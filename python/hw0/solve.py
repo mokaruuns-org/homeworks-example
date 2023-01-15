@@ -1,3 +1,3 @@
-# Иванов Иван
-
-print("Hello world!")
+print("Марсель Ахметов")
+print("https://github.com/mokaruuns-org/homeworks-mokaruuns")
+print("@mokaruuns")
